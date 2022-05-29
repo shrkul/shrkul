@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shreyas
+- 👀 I’m interested in Blockchain, web3 and exploring the latest in tech.
+- 🌱 I’m currently learning how blockchains are built.
+- 💞️ I’m looking to collaborate on blockchain development for applications that require trustless co-ordination between transacting parties.
+- 📫 Message me @shrekul on twitter.
